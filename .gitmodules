@@ -1,0 +1,3 @@
+[submodule "tejas-notes"]
+	path = tejas-notes
+	url = https://github.com/tejasbitla/samplestuff.git
